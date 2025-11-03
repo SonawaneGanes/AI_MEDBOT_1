@@ -1,0 +1,7 @@
+symptoms,disease
+fever,cold
+fever cough,flu
+headache nausea,migraine
+rash itching,allergy
+sore throat fever,flu
+fatigue weight loss,diabetes
